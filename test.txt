@@ -4,3 +4,4 @@ morfe changes
 test
 do some changes2
 do some changes1
+do some change
